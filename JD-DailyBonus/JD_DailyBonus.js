@@ -15,7 +15,7 @@
 
 开启抓包app后, Safari浏览器登录 https://bean.m.jd.com/bean/signIndex.action 点击签到并且出现签到日历后, 返回抓包app搜索关键字 functionId=signBean 复制请求头Cookie填入以下Key处的单引号内即可 */
 
-var Key = ''; //单引号内自行填写您抓取的Cookie
+var Key = '__jda=122270672.1619786153743242387515.1619786153.1619786153.1619786153.1; __jdb=122270672.1.1619786153743242387515|1.1619786153; __jdv=122270672%7Cdirect%7C-%7Cnone%7C-%7C1619786153743; __jdc=122270672; mba_muid=1619786153743242387515; mba_sid=16197861537448722910566472983.1; shshshfpb=tTLNOMiep1VLJMgHd%206tLHg%3D%3D; shshshfp=593139fc11923a61c869d0687a3f25df; shshshfpa=2b2b6451-d2d0-5590-b3ac-71731ebfa9fd-1617155683; shshshsID=30f8c464ac3944698237ff28945105f7_1_1619786154446; guid=363b6fbace16f3a00bb1caea1ce1e993b03d5e9781c161b667a12309c6a84114; lang=chs; lsid=7xaccqnk8oozoae00cc4za0fsavuxx34vdg744rdtfchqriq; lstoken=ds3bw879; 3AB9D23F7A4B3C9B=445SSLR2QQTGQB4URWBVCEYCC7BGEARYJAP5CFQU3FJMNJAOJCBYR4457MMLAQKBRVUVWI3RXMSD6J3G5QPC7D4GKE; __jd_ref_cls=MLoginRegister_SMSLoginSuccess; jcap_dvzw_fp=zJYoPk_GgJkzRKHjMcC7mWtUX_jqJiV46HpVcBsj7K1gMKLDKR8lsfVrXL1_1draOm2JqA==; TrackerID=Nsv9p2bU9Xt6fQTwITSCykyYoTQeLgjXHFIYxZF0_JotOb36sRNU952ZHnsTW_qZADu2vKKh6eyILo8Ibr0HZtxjXg38MXRFWHzts6ujEoE; pt_key=AAJgi_nXADBx02iY70i6EICs6klnRtsqa_30iOR1PQarCfsC5vrmgtNJteZF9ZhE73oUCISD6sw; pt_pin=m14795332760; pt_token=y9yo9ool; pwdt_id=m14795332760; s_key=AAJgi_nXADD2mIUrIFocjo9LUB_R3HOy9RtosJMYbjJPOLLQRpfSW0WX-B8H1T6Xc3xE5rezdLg; s_pin=m14795332760; sfstoken=tk01m9c2d1c09a8sMXgzKzF4MXgxoDiH67u26N6DDRoNtyyBs+p07H/VAGzBLiXrT7MDXPLP8Pfy9KeZL/yUtWVwwlKw; whwswswws='; //单引号内自行填写您抓取的Cookie
 
 var DualKey = ''; //如需双账号签到,此处单引号内填写抓取的"账号2"Cookie, 否则请勿填写
 
